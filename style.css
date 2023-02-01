@@ -122,3 +122,10 @@ body{
     font-weight: var(--fw-400);
     opacity: .7;
 }
+
+.quota{
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: top right 10%;
+
+}
